@@ -1,2 +1,2 @@
-# Join.sk [Minecraft Script]
+Join.sk [Minecraft Script]
 ...
