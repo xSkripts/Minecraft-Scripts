@@ -1,3 +1,3 @@
 # Join.sk [Minecraft Script]
-# Plugins Needed:
+Plugins Needed:
 ...
