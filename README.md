@@ -1,2 +1,2 @@
-# Minecraft-Scripts
-Script for Minecraft
+# Join.sk [Minecraft Script]
+...
